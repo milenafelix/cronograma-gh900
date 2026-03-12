@@ -108,11 +108,11 @@
 
 ## Cursos, Documentação, Simulados e Agendamentos
 
-[Links úteis ](Links%20%C3%BAteis%20311c330adf8380feaa77d7709b311723.csv)
+[Links úteis ](https://github.com/milenafelix/cronograma-gh900/blob/main/01-links-uteis.csv)
 
 ## Prompt para o Gemini criar simulado, flashcards e guia de estudo (modo raciocínio ou pro)
 
-[Alimentar a IA](Alimentar%20a%20IA%20311c330adf8380c684cbc937da52b183.md)
+[Alimentar a IA](https://github.com/milenafelix/cronograma-gh900/blob/main/01-alimentar-ia.md)
 
 Você é um instrutor certificado em GitHub Foundations e especialista em versionamento de código.
 
