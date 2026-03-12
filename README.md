@@ -5,20 +5,9 @@ Este repositório contém minhas anotações, flashcards e simulados para a cert
 
 ## Conteúdo
 
-### Módulo 1: Alimentar a IA
-* [Alimentar a IA](01-alimentar-ia.md)
-* [Links Úteis - Módulo 1](01-links-uteis.csv)
-
-### Módulo 2: Curso de Git e GitHub
-* [Curso de Git e GitHub](02-curso-git-github.md)
-* [Links Úteis - Módulo 2](02-links-uteis.csv)
-
-### Módulo 3: Fundamentos do GitHub
-* [Fundamentos do GitHub](03-fundamentos-github.md)
-
-### Módulo 4: Estudos Avançados
-* [Fundamentos do GitHub - Parte 2](04-fundametos-github-2.md)
-* [Flashcards GH-900](04-flashcards.md)
+* [Alimentar a IA](01-alimentar-ia.md) - Simulados práticos com perguntas e respostas
+* [GitHub Foundations](01-GitHub-Foundations.md) - Flashcards com conceitos-chave
+* [Links Úteis](01-links-uteis.csv) - Recursos adicionais para estudo
 
 ## Sobre a Certificação GH-900
 
@@ -26,9 +15,9 @@ A certificação GitHub Foundations (GH-900) valida o conhecimento básico sobre
 
 ## Como Usar Este Repositório
 
-1. Siga a ordem dos módulos para um aprendizado progressivo.
-2. Use os flashcards para revisar conceitos-chave.
-3. Consulte os links úteis para recursos adicionais.
+1. Comece com os simulados em "Alimentar a IA" para prática prática.
+2. Use os flashcards em "GitHub Foundations" para revisar conceitos-chave.
+3. Consulte os links úteis para recursos adicionais e aprofundamento.
 
 ## Contribuição
 
